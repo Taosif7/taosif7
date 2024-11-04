@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋
+### I'm Taosif, a passionate Software Developer with expertise in Mobile Development.
 
-<!--
-**Taosif7/taosif7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻  I'm a **Software Engineer** specializing in mobile technologies
+- 🔭  I'm currently focusing on developing robust mobile applications
+- 📱  I work with multiple mobile development frameworks and native technologies
+- 🌱  I'm constantly learning and exploring new technologies
+- 💡  I enjoy solving complex problems and creating efficient solutions
+- 📫  How to reach me: [GitHub](https://github.com/taosif7)
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Taosif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taosif7&count_private=true&theme=buefy&show_icons=true)](https://github.com/taosif7)
